@@ -24,3 +24,6 @@ If these codes and dataset are helpful for you, please cite this paper:
   number={},
   pages={1-1},
   doi={10.1109/TGRS.2023.3341245}}
+```
+## License
+Code and datasets are released for non-commercial and research purposes only. For commercial purposes, please contact the authors.
