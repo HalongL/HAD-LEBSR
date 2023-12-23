@@ -4,7 +4,7 @@ This is the code of paper named "Learnable Background Endmember with Subspace Re
 
 For more information of this project, please refer to our paper:
 
-T. Guo, L. He, F. Luo, X. Gong, L. Zhang and X. Gao, "Learnable Background Endmember with Subspace Representation for Hyperspectral Anomaly Detection," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3341245.
+T. Guo, L. He, F. Luo, X. Gong, L. Zhang and X. Gao, "Learnable Background Endmember With Subspace Representation for Hyperspectral Anomaly Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-13, 2024, Art no. 5501513, doi: 10.1109/TGRS.2023.3341245.
 
 ## Prerequisites
 
