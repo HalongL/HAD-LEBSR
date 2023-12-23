@@ -18,11 +18,11 @@ If these codes and dataset are helpful for you, please cite this paper:
 @ARTICLE{10352161,
   author={Guo, Tan and He, Long and Luo, Fulin and Gong, Xiuwen and Zhang, Lei and Gao, Xinbo},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Learnable Background Endmember with Subspace Representation for Hyperspectral Anomaly Detection}, 
-  year={2023},
-  volume={},
+  title={Learnable Background Endmember With Subspace Representation for Hyperspectral Anomaly Detection}, 
+  year={2024},
+  volume={62},
   number={},
-  pages={1-1},
+  pages={1-13},
   doi={10.1109/TGRS.2023.3341245}}
 ```
 ## License
